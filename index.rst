@@ -3,20 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Python Ireland's documentation!
-==========================================
+Welcome to Python Ireland's guide!
+==================================
+
+This guide is aim to help with the organisation and running of Python Ireland and its events, including PyCon Ireland.
+
+Hopefully this will provide you with enough information which is based on mainly Vicky's experiences. We hope that you will contribute to this guide to help future committee members.
+
+This guide is a Work in Progress.
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
+   guide/committee
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
