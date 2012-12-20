@@ -18,6 +18,7 @@ Contents:
    :maxdepth: 2
 
    guide/committee
+   guide/meetups
 
 Indices and tables
 ==================
