@@ -8,28 +8,12 @@ The first one was held in 2010 after an enthusiastic drunken (and one undrunken)
 
 (* I think that was everyone, please update if my memory was wrong. - Vicky)
 
-PyConIE Committee
-=================
-PyConIE Committee members volunteer themselves, and within that committee, either the member will nominate themselves or a member gets nominated as Chair.
+Contents:
 
-2013
+.. toctree::
+   :maxdepth: 2
 
-* Chair: Diarmuid Bourke / Co-Chair: Vicky Twomey-Lee
-* Members: TBA
-
-2012
-
-* Chair: Vicky Twomey-Lee
-* Members: Brian Brazil, Diarmuid Bourke, Con Hennessey, Michael Twomey, Nic Roland, Sean O'Donnell, Rodrigue Alcazar, Tendayi Mawushe
-
-2011
-
-* Chair: Vicky Twomey-Lee
-* Members: Alan Kennedy, Brian Brazil, Michael Twomey, Rodrigue Alcazar, Tendayi Mawushe, Sean O'Donnell
-
-2010
-
-* Chair: Vicky Twomey-Lee
-* Members: Alan Kennedy, Brian Brazil, Michael Twomey, Sean O'Donnell
+   pyconie-committee
+   venues
 
 
