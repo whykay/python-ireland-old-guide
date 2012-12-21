@@ -19,6 +19,7 @@ Contents:
 
    guide/committee
    guide/meetups
+   guide/conference/index
 
 Indices and tables
 ==================
