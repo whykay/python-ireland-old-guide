@@ -1,3 +1,5 @@
+.. _pyconie-committee:
+
 PyConIE Committee
 =================
 PyConIE Committee members volunteer themselves, and within that committee, either the member will nominate themselves or a member gets nominated as Chair.

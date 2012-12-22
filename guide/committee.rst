@@ -1,3 +1,5 @@
+.. _pythonie-committee:
+
 =========
 Committee
 =========
