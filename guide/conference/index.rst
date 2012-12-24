@@ -18,6 +18,7 @@ Contents:
    pyconie-committee
    sponsorship
    venues
+   costs
    pr
 
 
