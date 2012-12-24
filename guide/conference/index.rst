@@ -18,5 +18,6 @@ Contents:
    pyconie-committee
    sponsorship
    venues
+   pr
 
 

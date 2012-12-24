@@ -10,12 +10,14 @@ A few things need to be done:-
 * Add to `python.ie <http://python.ie/>`_'s *Events* page (get admin access via Michael Twomey)
 * Post details to
     * `@PythonIreland <http://twitter.com/pythonireland/>`_ with the hashtag *#PythonIE*
-    * `Python Ireland Facebook page <https://www.facebook.com/groups/20154483464/>`_
+    * `Python Ireland Facebook Group <https://www.facebook.com/groups/20154483464/>`_
+        * We have a `Python Ireland Facebook Page <https://www.facebook.com/pages/Python-Ireland/112652892100109?fref=ts>`_ as well, but not used because of lack of time to update.
     * `Python Ireland LinkedIn group <http://www.linkedin.com/groups/Python-Ireland-40749?>`_
     * `Lanyrd <http://lanyrd.com/>`_
         * Add to *Tech events around Ireland* and *Python events around Ireland* Guides
         * Tag topics with *Python*, *Ireland*, *Dublin*
         * Add location, organisers details and details of the meetup (talk or pub)
+        * Claim the event so you have additional admin privileges.
     * `Events Den <http://eventsden.com/>`_
     * `Tech Events <http://www.techevents.ie/>`_
 

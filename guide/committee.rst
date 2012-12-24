@@ -12,17 +12,23 @@ Chair
     Diarmuid Bourke
 
 Secretary
-    NAME
+    Michael Twomey (@micktwomey)
 
 Treasurer / Co-Chair
     Vicky Twomey- Lee (@whykay)
 
 Members
-    NAME
+    Rodrigue Alcazar
 
-    NAME
+    Brian Brazil
 
-    NAME
+    Jakub Jarosz
+
+    Tendayi Mawushe
+
+    Nic Roland
+
+    Vishal Vatsa
 
 2012
 ====
@@ -36,11 +42,14 @@ Treasurer
     Diarmuid Bourke
 
 Members
-    NAME
 
-    NAME
+    Brian Brazil
 
-    NAME
+    Alan Kennedy
+
+    Sean O'Donnell
+
+    Nic Roland
 
 2011
 ====
@@ -54,11 +63,10 @@ Treasurer
     Alan Kennedy
 
 Members
-    NAME
+    Brian Brazil
 
-    NAME
+    Sean O'Donnell
 
-    NAME
 
 2010
 ====
@@ -73,5 +81,7 @@ Treasurer
 
 Members
     Brian Brazil
+
+    Kevin Gill
 
     Sean O'Donnell
