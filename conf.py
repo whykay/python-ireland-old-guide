@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Python Ireland'
-copyright = u'2012, Vicky Lee'
+copyright = u'2012, Vicky Twomey-Lee'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -184,7 +184,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'PythonIreland.tex', u'Python Ireland Documentation',
-   u'Vicky Lee', 'manual'),
+   u'Vicky Twomey-Lee', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -214,7 +214,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'pythonireland', u'Python Ireland Documentation',
-     [u'Vicky Lee'], 1)
+     [u'Vicky Twomey-Lee'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -228,7 +228,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'PythonIreland', u'Python Ireland Documentation',
-   u'Vicky Lee', 'PythonIreland', 'One line description of project.',
+   u'Vicky Twomey-Lee', 'PythonIreland', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -246,9 +246,9 @@ texinfo_documents = [
 
 # Bibliographic Dublin Core info.
 epub_title = u'Python Ireland'
-epub_author = u'Vicky Lee'
-epub_publisher = u'Vicky Lee'
-epub_copyright = u'2012, Vicky Lee'
+epub_author = u'Vicky Twomey-Lee'
+epub_publisher = u'Vicky Twomey-Lee'
+epub_copyright = u'2012, Vicky Twomey-Lee'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.
