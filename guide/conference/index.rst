@@ -20,5 +20,6 @@ Contents:
    venues
    costs
    pr
+   checklist
 
 
