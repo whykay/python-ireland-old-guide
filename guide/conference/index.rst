@@ -16,6 +16,7 @@ Contents:
    :maxdepth: 2
 
    pyconie-committee
+   pyconie-date
    sponsorship
    venues
    costs
