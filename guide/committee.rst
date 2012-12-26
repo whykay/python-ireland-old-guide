@@ -6,8 +6,8 @@ Committee
 
 Each year around October, an AGM is held to re-elect the next Python Ireland Committee.
 
-2013
-====
+Current - 2013
+==============
 Chair
     Diarmuid Bourke
 
@@ -30,8 +30,10 @@ Members
 
     Vishal Vatsa
 
+Previous Committee Members
+==========================
 2012
-====
+----
 Chair
     Vicky Twomey-Lee (@whykay)
 
@@ -52,7 +54,7 @@ Members
     Nic Roland
 
 2011
-====
+----
 Chair
     Vicky Twomey-Lee (@whykay)
 
@@ -69,7 +71,7 @@ Members
 
 
 2010
-====
+----
 Chair
     Vicky Twomey-Lee (@whykay)
 
@@ -85,3 +87,12 @@ Members
     Kevin Gill
 
     Sean O'Donnell
+
+Constitution
+============
+This is the current and initial constitution drawn up by the first committee members. This will have to be re-visited with the new members of 2013.
+
+`View current constitution <https://docs.google.com/file/d/0B8f9AuYUSSQtYjIzYjA1YWItNmM2Yi00MDEyLTg5NzYtNzg5NDM4ZGI1NTI4/edit>`_
+
+*(Note: If you want to view the constitution and have no access, please contact Vicky.)*
+
