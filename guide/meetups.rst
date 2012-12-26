@@ -24,7 +24,9 @@ A few things need to be done:-
 Checklist
 =========
 * Organiser(s) contact number / Twitter name / email
-* Projector (if required)
+* Projector (if required) [#]_
 * Confirmation of location (if reserved)
-* Chequebook, if paying on the night.
+* Chequebook, if paying on the night. (Ask Vicky)
 * Receipt from venue/service, if expensing.
+
+.. [#] Mick and Vicky has a projector, please email them to see if it's available. If a company is happy to sponsor a lend of their projector, that is good also.
