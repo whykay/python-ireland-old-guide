@@ -3,7 +3,7 @@
 ==
 PR
 ==
-We have an official Press Release for each conference.
+We have an official Press Release for each conference. We also have to try an encourage discussion around PyCon Ireland all the year until and after the conference to keep momentum going.
 
 Here is 2012's Press Release for reference:- `http://python.ie/pycon/2012/pr/#press-release <http://python.ie/pycon/2012/pr/#press-release>`_
 
@@ -14,6 +14,7 @@ We post updates to the following as well:-
 * `PyCon Ireland Twitter <https://twitter.com/pyconireland>`_ with the hashtag #PyConIE
 * `Python Ireland LinkedIn group <http://www.linkedin.com/groups/Python-Ireland-40749?>`_
 * `PyCon Ireland Blog <http://python.ie/blog/>`_
+* `Irish Press Releases <http://irishpressreleases.com/>`_ (check if url is correct)
 
 We also post event details to:-
 
@@ -25,3 +26,4 @@ We also post event details to:-
     * NOTE: Don't forget to call for sponsors and papers.
 * `Events Den <http://eventsden.com/>`_
 * `Tech Events <http://www.techevents.ie/>`_
+
