@@ -12,6 +12,8 @@ Hopefully this will provide you with enough information which is based on mainly
 
 This guide is a Work in Progress.
 
+Official Homepage: http:python.ie
+
 Contents:
 
 .. toctree::
@@ -23,6 +25,7 @@ Contents:
    guide/diversity
    guide/media
    guide/conference/index
+   guide/credits
 
 Indices and tables
 ==================
