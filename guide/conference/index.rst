@@ -17,12 +17,12 @@ Contents:
 
    pyconie-committee
    pyconie-date
-   sponsorship
-   venues
-   costs
    pyconie-content
+   pyconie-sponsorship
+   pyconie-venues
+   pyconie-costs
    pyconie-diversity
-   pr
-   checklist
+   pyconie-pr
+   pyconie-checklist
 
 
