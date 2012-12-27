@@ -13,4 +13,8 @@ We want to initially encourage more
 
 to attend/speak/sprint PyCon Ireland.
 
+Code of Conduct
+===============
+(See also: :ref:`Code of Conduct in Python Ireland <diversity>`)
+
 *[TODO] More to add.*
