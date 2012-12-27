@@ -21,6 +21,7 @@ Contents:
    venues
    costs
    pyconie-content
+   pyconie-diversity
    pr
    checklist
 
