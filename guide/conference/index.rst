@@ -10,6 +10,8 @@ The first one was held in 2010 after an enthusiastic drunken (and one undrunken)
 
 (* I think that was everyone, please update if my memory was wrong. - Vicky)
 
+Official Homepage: http:python.ie/pycon/
+
 Contents:
 
 .. toctree::
