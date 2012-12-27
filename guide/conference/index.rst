@@ -23,6 +23,7 @@ Contents:
    pyconie-costs
    pyconie-diversity
    pyconie-pr
+   pyconie-accommodation
    pyconie-checklist
 
 
