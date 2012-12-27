@@ -1,8 +1,8 @@
 .. _meetups:
 
-#######
-Meetups
-#######
+############
+Meetups & PR
+############
 Python Ireland meetups are held on the 2nd Wednesday monthly regardless if there are talks or not. If it's the latter, then a pub meetup is organised instead.
 
 A few things need to be done:-
