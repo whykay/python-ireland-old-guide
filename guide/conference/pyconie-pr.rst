@@ -11,7 +11,7 @@ We post updates to the following as well:-
 
 * `Facebook Python Ireland Group <https://www.facebook.com/groups/20154483464/?fref=ts>`_
     * We have a `FaceBook Page <https://www.facebook.com/pages/PyCon-Ireland/149705365084311?fref=ts>`_, but didn't have time to update, so I kept everything in one group for now.
-* `PyCon Ireland Twitter <https://twitter.com/pyconireland>`_
+* `PyCon Ireland Twitter <https://twitter.com/pyconireland>`_ with the hashtag #PyConIE
 * `Python Ireland LinkedIn group <http://www.linkedin.com/groups/Python-Ireland-40749?>`_
 * `PyCon Ireland Blog <http://python.ie/blog/>`_
 
