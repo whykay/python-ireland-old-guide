@@ -4,6 +4,8 @@
 Costs
 =====
 
+*(NOTE: If you want to see previous years quotes, please ask Vicky.)*
+
 We needs quotes for the following:-
 
 * Venue (hotel, conference centre, office building, etc.)

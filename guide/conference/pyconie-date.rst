@@ -19,4 +19,6 @@ Things to note when picking dates:
 * July - Summer vacation for many, and students are off college. This is also peak period for travelling and accommodation.
 * September to early November are conference months. Late November and December will be going into Christmas party period.
 
+====
+
 .. [#] Update this list of you find other places to find out when local, especially tech, events are on.
