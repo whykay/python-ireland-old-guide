@@ -20,6 +20,7 @@ Contents:
    guide/history
    guide/committee
    guide/meetups
+   guide/diversity
    guide/conference/index
 
 Indices and tables
