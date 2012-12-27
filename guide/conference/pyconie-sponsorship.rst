@@ -8,7 +8,7 @@ It is important to have at least a few committee members following up with compa
 Shout-outs via tweets (RT/MT), FB, LinkedIN, Lanyard and via our own python.ie site are the initial steps to get general interests. We do have contacts with previous sponsors, so a personal individual email to initialise the process is also advised.
 
 Brochure
---------
+========
 Initial brochure were based on PyCon US, PyCon UK and EuroPython sponsorship brochures.
 
 Current brochure:- `PyCon Ireland 2012 Brochure <https://docs.google.com/file/d/0B8f9AuYUSSQtVkxwNjhTNDhTT2FSVTVnYmlzamlSQQ/edit>`_
@@ -17,7 +17,7 @@ The brochure currently is maintained by Vicky Twomey-Lee, and is created using P
 The Sponsorship Brochure is re-visited early every year to update and re-balance the various sponsorship options which depends on how the previous conference went.
 
 Sponsors
---------
+========
 Previous PyCon Ireland sponsors, see `http://python.ie/companies/ <http://python.ie/companies/>`_.
 
 * There's a spreadsheet [1]_ with sponsors contacts, the organisers will have access to that doc.
@@ -26,7 +26,7 @@ Previous PyCon Ireland sponsors, see `http://python.ie/companies/ <http://python
     * Any questions, email pycon@python.ie
 
 Swag
-^^^^
+----
 Swag are goodies provided from various companies (not necessarily sponsors) that are placed in delegates *swag* bag, they normally consists of:-
 
 * Company inserts / fliers
@@ -40,7 +40,7 @@ Swag are goodies provided from various companies (not necessarily sponsors) that
 * ...
 
 Prizes
-^^^^^^
+------
 Prizes are normally for a raffle during the meal on the main conference day, which is currently Saturday.
 
 The first two years we donated the proceeds to PSF after selling raffle tickets. In 2012, we opted that everyone who registered (excluding the organisers) will be included in the raffle automatically and names are randomly picked (idea was thanks to EuroPython 2012). We didn't collect monies, so there was no charity donation in 2012.

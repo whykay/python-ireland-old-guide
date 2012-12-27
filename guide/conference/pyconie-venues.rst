@@ -7,7 +7,7 @@ Ask for a quote, and also a viewing of the venue.
 Email the committee about the price and when to view the venue.
 
 What to look for in a potential venue?
---------------------------------------
+======================================
 * Can accommodate 250 (max) in one room.
 * 3 large halls that can hold up to 50-80 people each.
 * 1 large hall that can host a plenary session
@@ -17,7 +17,7 @@ What to look for in a potential venue?
 * Good wireless for a tech conference. Radisson Blu held up quite well.
 
 Venues we used in the past
---------------------------
+==========================
 
 * 2010: Dublin School of English / Capacity: 100
     * Boticelli was the hired caterers for tea/coffee, breakfast and lunch.
@@ -27,7 +27,7 @@ Venues we used in the past
     * Hotel provided food, no outside caterers allowed.
 
 Venues we enquired in the past
-------------------------------
+==============================
 
 * Dublin Conference Centre (really expensive, no outside catering, but has all the tech requirements)
 * Camden Court Hotel
