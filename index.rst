@@ -21,6 +21,7 @@ Contents:
    guide/committee
    guide/meetups
    guide/diversity
+   guide/media
    guide/conference/index
 
 Indices and tables
