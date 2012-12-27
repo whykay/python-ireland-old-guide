@@ -25,5 +25,6 @@ Contents:
    pyconie-pr
    pyconie-accommodation
    pyconie-checklist
+   pyconie-media
 
 
