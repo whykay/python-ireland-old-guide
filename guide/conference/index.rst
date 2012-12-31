@@ -20,6 +20,7 @@ Contents:
    sponsorship
    venues
    costs
+   pyconie-content
    pr
    checklist
 
