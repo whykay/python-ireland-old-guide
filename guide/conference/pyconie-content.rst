@@ -51,3 +51,4 @@ Lessons Learnt
 * Have 2 breaks during the day as well as breakfast and lunch.
 	* 1 hour break for lunch was a success in 2012. Feedback was positive regarding time to mingle and not having to rush food and head to next set of talks.
 * Depending on venues, it seems that maximum 5 sponsor tables is enough else people feel it's just a recruitment fair. We are trying to provide an informal and friendly event.
+* We have had entertainment between 2010 and 2012, this is optional. It will also depend on the venue.
