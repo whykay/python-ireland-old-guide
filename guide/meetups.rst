@@ -21,6 +21,68 @@ A few things need to be done:-
     * `Events Den <http://eventsden.com/>`_
     * `Tech Events <http://www.techevents.ie/>`_
 
+Locations
+=========
+Following are locations we have had our social meetups and talks.
+
+Cork
+----
+
+Social
+
+* Camden Palace Hotel
+* Clarion Hotel
+* Franciscan Well
+
+Dublin
+------
+
+Talks
+
+* Central Hotel
+* DIT
+* Engine Yard
+* Gresham Hotel
+* Jury's Inn, Parnell Street
+* Salt House
+* Science Gallery (studio upstairs)
+* Scruffy Murphy's (upstairs)
+* Seagrass Restaurabt (downstairs)
+* Trinity College (Arts Block)
+
+Social
+
+* Agains the Grain (upstairs and downstairs)
+* Bull and Castle (Beer Hall)
+* Karma Stone
+* Longstone
+* Lord Edward's Bar and Lounge
+* Market Bar
+* Neary's
+* O'Neill's, Pearse Street
+* Slattery's Bar & Early House
+* The Black Sheep
+* The Grand Central
+* The Schoolhouse Pub
+* The Vaults
+* Trinity Capital Hotel
+
+
+Unconference
+
+* Dublin School of English
+* UCD - Computer Science (labs)
+
+Galway
+------
+
+* 091Labs
+* DERI
+* Forster Court pub 
+* McSwiggans Bar and Restaurant
+* The Galway Arms
+* The Westwood bar
+
 Checklist
 =========
 * Organiser(s) contact number / Twitter name / email
