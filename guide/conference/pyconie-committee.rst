@@ -7,19 +7,19 @@ PyConIE Committee members volunteer themselves, and within that committee, eithe
 2013
 
 * Chair: Diarmuid Bourke / Co-Chair: Vicky Twomey-Lee
-* Members: TBA
+* Members: Rodrigue Alcazar, Jakub Jarosz, Daniel Kersten, Kevin O'Brien, Nic Roland, Rigel Di Scala, Michael Twomey, Vishal Vatsa
 
 2012
 
 * Chair: Vicky Twomey-Lee
-* Members: Brian Brazil, Diarmuid Bourke, Con Hennessey, Michael Twomey, Nic Roland, Sean O'Donnell, Rodrigue Alcazar, Tendayi Mawushe
+* Members: Rodrigue Alcazar, Brian Brazil, Diarmuid Bourke, Con Hennessey, Tendayi Mawushe, Nic Roland, Sean O'Donnell, Michael Twomey
 
 2011
 
 * Chair: Vicky Twomey-Lee
-* Members: Alan Kennedy, Brian Brazil, Michael Twomey, Rodrigue Alcazar, Tendayi Mawushe, Sean O'Donnell
+* Members: Rodrigue Alcazar, Brian Brazil, Alan Kennedy, Tendayi Mawushe, Sean O'Donnell, Michael Twomey  
 
 2010
 
 * Chair: Vicky Twomey-Lee
-* Members: Alan Kennedy, Brian Brazil, Michael Twomey, Sean O'Donnell
+* Members: Brian Brazil, Alan Kennedy, Sean O'Donnell, Michael Twomey
