@@ -38,3 +38,39 @@ Venues we enquired in the past
     * [TODO] More details and link to 2012 prices.
 * [TODO] Add more venues
 
+Sample enquiry email::
+
+	Hi <INSERT_NAME>,
+
+	My name is <INSERT_NAME>, and I am one of the organisers for PyCon Ireland <YEAR>.
+	PyCon Ireland is an annual technology conference and this year will be our fourth year running it.
+	We are a non-profit organisation, and I would like to enquire about your venue about availability and cost for our next conference.
+
+	PyCon Ireland <YEAR> will be held on Sat XX - Sun XX <MONTH> <YEAR>.
+
+	We will be expecting 250 t0 300 (max) delegates.
+
+	Details on what we requre are as follows:-
+	- 3 large halls to fit 50-80 ppl each. (Theatre style)
+	- Seperately, 1 large hall/theatre to accommodate up to 300 ppl for plenary session. (Theatre style)
+	- 2 training rooms for up to 30 ppl (Classroom style)
+	- Projectors
+	- A/V setup? 
+	  - Can we bring our own A/V team?
+	- Podium with mic
+	- Food - x2 Breaks, Lunch and Dinner on Sat / x1 break & Lunch on Sun
+	  - Are we allowed to bring in our own  external catering for breaks, lunch and/or dinner?
+	  - Are we allowed to bring in own craft beer?
+	- Green room for organisers and equipment.
+	- Lobby/Concourse area for breaks, sponsor stands (outside halls where talks are held)
+	- Wi-Fi - hold up to multiple devices for tech-heavy conference
+	- Power leads
+	- Deals with accommodation
+	- Option to allow us to bring in entertainment on Saturday evening.
+
+	Kindest Regards,
+
+	<INSERT_NAME>, PyCon Ireland <YEAR>
+	(http://python.ie/pycon/)
+
+
