@@ -18,6 +18,9 @@ A few things need to be done:-
         * Tag topics with *Python*, *Ireland*, *Dublin*
         * Add location, organisers details and details of the meetup (talk or pub)
         * Claim the event so you have additional admin privileges.
+    * `Meetup.com <http://www.meetup.com/pythonireland/>`_
+        * Create a new event. [#]_
+        * Remember to thank Intercom, our meetup.com sponsor.
     * `Events Den <http://eventsden.com/>`_
     * `Tech Events <http://www.techevents.ie/>`_
     * Python Announce mailing list
@@ -91,9 +94,11 @@ Checklist
 * Organiser(s) contact number / Twitter name / email
 * Projector (if required) [#]_
 * Confirmation of location (if reserved)
-* Chequebook, if paying on the night. (Ask Vicky)
+* Chequebook, if paying on the night. [#]_
 * Receipt from venue/service, if expensing.
 
 ====
 
+.. [#] Contact Vicky to add you as co-organiser of an event in meetup.com.
 .. [#] Mick and Vicky has a projector, please email them to see if it's available. If a company is happy to sponsor a lend of their projector, that is good also.
+.. [#] Ask Vicky.
