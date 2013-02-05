@@ -20,6 +20,9 @@ A few things need to be done:-
         * Claim the event so you have additional admin privileges.
     * `Events Den <http://eventsden.com/>`_
     * `Tech Events <http://www.techevents.ie/>`_
+    * Python Announce mailing list
+        * python-announce-list@python.org
+        * Do make sure you have all the details required for the announcement, see emails from `archives <http://mail.python.org/pipermail/python-announce-list/>`_ as a reference.
 
 Locations
 =========
