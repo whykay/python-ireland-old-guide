@@ -12,7 +12,7 @@ Hopefully this will provide you with enough information which is based on mainly
 
 This guide is a Work in Progress.
 
-Official Homepage: http:python.ie
+Official Homepage: http://python.ie
 
 Contents:
 
