@@ -26,7 +26,13 @@ A few things need to be done:-
     * Python Announce mailing list
         * python-announce-list@python.org
         * Do make sure you have all the details required for the announcement, see emails from `archives <http://mail.python.org/pipermail/python-announce-list/>`_ as a reference.
-
+    * Other usergroups:
+        * dublinaltnet@googlegroups.com
+        * dublin-game-craft@googlegroups.com
+        * dublinjs@googlegroups.com
+        * gdg-dublin@googlegroups.com
+        * ruby_ireland@googlegroups.com
+ 
 Locations
 =========
 Following are locations we have had our social meetups and talks.
