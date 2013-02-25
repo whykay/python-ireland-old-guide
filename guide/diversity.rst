@@ -15,3 +15,4 @@ Other Information
 =================
 * [TODO] Add link to PSF's post about CoC.*
 * `Python Community's Diversity Page <http://python.org/community/diversity/>`_
+* http://www.letsgetlouder.com/ - Pledging here means "As a member of the Python community, we pledge only to attend, speak at, assist, sponsor, or otherwise participate in conferences that publicly promote an anti-harassment and anti-discrimination code of conduct policy."
