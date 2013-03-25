@@ -22,6 +22,7 @@ Contents:
    guide/history
    guide/committee
    guide/meetups
+   guide/funding
    guide/diversity
    guide/media
    guide/conference/index

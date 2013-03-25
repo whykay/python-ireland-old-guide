@@ -103,6 +103,20 @@ Checklist
 * Chequebook, if paying on the night. [#]_
 * Receipt from venue/service, if expensing.
 
+Other events
+============
+Aside from meetups (talks and social), Python Ireland also organises other events, e.g. sprints, unconferences, co-org with other user groups.
+
+Types of Events
+---------------
+TODO: More info
+
+Funding
+=======
+If funding is required, please see :ref:`Funding page <funding>` for more information.
+
+
+
 ====
 
 .. [#] Contact Vicky to add you as co-organiser of an event in meetup.com.
