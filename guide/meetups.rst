@@ -103,6 +103,12 @@ Checklist
 * Chequebook, if paying on the night. [#]_
 * Receipt from venue/service, if expensing.
 
+Post-Meetup
+===========
+* Get slides off presenter (from past experience, speakers tend to only have slides ready right before the talks starts.)
+    * Upload them to https://drive.google.com/a/python.ie/?tab=mo#folders/0ByawkMkzunElZWFjN2QwOTctNjYyNy00MTNmLThlMjgtN2IwN2NjNWU0ZDBm
+    * Send email, tweet, post on Facebook, LinkedIn, etc. that the slides are up.
+
 Other events
 ============
 Aside from meetups (talks and social), Python Ireland also organises other events, e.g. sprints, unconferences, co-org with other user groups.
