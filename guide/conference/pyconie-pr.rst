@@ -26,4 +26,5 @@ We also post event details to:-
     * NOTE: Don't forget to call for sponsors and papers.
 * `Events Den <http://eventsden.com/>`_
 * `Tech Events <http://www.techevents.ie/>`_
+* Email events@pycon.org to add the conference to the PyCon global calendar.
 
