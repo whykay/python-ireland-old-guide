@@ -11,7 +11,11 @@ Brochure
 ========
 Initial brochure were based on PyCon US, PyCon UK and EuroPython sponsorship brochures.
 
-Current brochure:- `PyCon Ireland 2012 Brochure <https://docs.google.com/file/d/0B8f9AuYUSSQtVkxwNjhTNDhTT2FSVTVnYmlzamlSQQ/edit>`_
+Current:- `PyCon Ireland 2012 Brochure <https://docs.google.com/file/d/0B8f9AuYUSSQtVkxwNjhTNDhTT2FSVTVnYmlzamlSQQ/edit>`_
+
+Previous brochures
+
+* `PyCon Ireland 2013 Brochure <http://bit.ly/PyConIEBrochure2013>`_
 
 The brochure currently is maintained by Vicky Twomey-Lee, and is created using Pages. [1]_
 The Sponsorship Brochure is re-visited early every year to update and re-balance the various sponsorship options which depends on how the previous conference went.
@@ -23,7 +27,7 @@ Previous PyCon Ireland sponsors, see `http://python.ie/companies/ <http://python
 * There's a spreadsheet [1]_ with sponsors contacts, the organisers will have access to that doc.
     * Add any new (potential) sponsor contacts with as much detail as you can give.
     * Update existing sponsor details.
-    * Any questions, email pycon@python.ie
+    * Any questions, email sponsors@python.ie
 
 Swag
 ----
