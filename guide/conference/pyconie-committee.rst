@@ -4,6 +4,11 @@ PyConIE Committee
 =================
 PyConIE Committee members volunteer themselves, and within that committee, either the member will nominate themselves or a member gets nominated as Chair.
 
+2014
+
+* Chair: Diarmuid Bourke
+* Members: Sorcha Bowler, Andrea Fagan
+
 2013
 
 * Chair: Diarmuid Bourke / Co-Chair: Vicky Twomey-Lee
