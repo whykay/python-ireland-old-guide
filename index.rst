@@ -27,6 +27,7 @@ Contents:
    guide/media
    guide/conference/index
    guide/credits
+   minutes/2014-11-agm
 
 Indices and tables
 ==================

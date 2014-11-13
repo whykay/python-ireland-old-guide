@@ -1,0 +1,54 @@
+Python Ireland 2014 AGM
+=======================
+
+AGM took place in Science Gallery on 2014-11-12.
+
+Note taker: Michael Twomey
+
+AGM Report from Diarmuid
+------------------------
+
+- 2014 recap
+    + Python Ireland
+    + PyCon 2014
+- 2015 plans
+    + Meetups
+    + PyCon 2015
+    + Workshops
+    + Regional Officer
+
+2014 financial report from Vicky
+--------------------------------
+
+Questions:
+
+- Ballsbridge Hotel occurred multiple times, is that a mistake?
+    + Each of the deposits and payments appear individually
+- (Question on cash)
+    + Cash flow issue with PyCon for deposits, which is why a large cash reserve is kept
+- What was the turn out for PyCon?
+    + Extra 30 people, about 10% increase, 349 title
+
+Regional Officer
+----------------
+
+Creating a sub-committee, possibly one per region. Goal is to run local events.
+
+Committee Voting
+----------------
+
+Proposed committee:
+
+- Diarmuid Bourke (Chair) (Currently has access to bank a/c)
+- Vicky Twomey-Lee (Treasurer) (Currently has access to bank a/c)
+- David Markey (Ordinary Member) (Currently has access to bank a/c)
+- Brian McDonnell (Ordinary Member)
+- Barisa Obradovic (Ordinary Member)
+- Andrea Fagan (Secretary)
+- Jakub Jarosz (Ordinary Member)
+- Mick Twomey (Ordinary Member) (Currently has access to bank a/c)
+- Gerry Boland (Ordinary Member)
+
+- Proposal: if there are no objections we will vote this in as the new committee
+- No objections
+- Audience voted in favour of new committee (approximately 30 people)

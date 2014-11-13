@@ -6,8 +6,38 @@ Committee
 
 Each year around October, an AGM is held to re-elect the next Python Ireland Committee.
 
-Current - 2014
+
+Current - 2015
 ==============
+
+Chair
+    Diarmuid Bourke
+
+Secretary
+    Andrea Fagan
+
+Treasurer
+    Vicky Twomey-Lee
+
+Members
+    David Markey
+
+    Brian McDonnell
+
+    Barisa Obradovic
+
+    Jakub Jarosz
+
+    Michael Twomey
+
+    Gerry Boland
+
+Previous Committee Members
+==========================
+
+2014
+====
+
 Chair
     Diarmuid Bourke
 
@@ -20,7 +50,7 @@ Treasurer / Co-Chair
 Members
     Brian Brazil
 
-    Eugene Eichelberger 
+    Eugene Eichelberger
 
     Andrea Fagan
 
@@ -29,9 +59,8 @@ Members
     Dave Markey
 
     Brian E. Ward
-    
-Previous Committee Members
-==========================
+
+
 2013
 ----
 Chair
