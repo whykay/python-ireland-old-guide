@@ -36,7 +36,7 @@ Previous Committee Members
 ==========================
 
 2014
-====
+----
 
 Chair
     Diarmuid Bourke
