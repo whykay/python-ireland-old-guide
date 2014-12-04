@@ -19,6 +19,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   guide/constitution
    guide/history
    guide/committee
    guide/meetups
