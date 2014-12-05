@@ -4,7 +4,9 @@
 Python Ireland Constitution
 ###########################
 
-#. Name: Python Ireland
+#. Name
+
+   a. The body shall be known as Python Ireland, hereinafter called ‘The Society’.
 
 #. Object/Aims
 
