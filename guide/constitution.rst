@@ -58,7 +58,6 @@ Python Ireland Constitution
    a. This Constitution may be amended by a two-thirds majority of those present and eligible to vote at an Annual General Meeting or Extraordinary General Meeting of the Society.
    #. Amendments to this Constitution shall be proposed by the Committee or by twelve Members or more of the Society in writing in accordance with the provisions set out in paragraph 6.f. above.
    #. This Constitution is binding from April 13th 2010.
-   #. See Appendix 2, Initial Functioning of the Society for information on how the Society has come into being and how it shall function during the first six months.
 
 
 Signatures
@@ -89,17 +88,13 @@ The Society's website shall include a forum for Members to post their views and 
 Appendix 2
 ==========
 
-Introduction
-------------
-The Society is being setup, in the first instance, to facilitate the organisation and presentation of the PyCon Ireland conference and associated activities in July 2010 at the Dublin School of English.
-
 Constitution of the Python Ireland Society
 ------------------------------------------
 The constitution will be applicable from 13th April 2010.
 
 Executive Committee
 -------------------
-The initial Executive Committee has been drawn from those who have already taken an active role in organising the conference. Its members are:
+The executive committee members are:
 
 - Chair Person: Diarmuid Bourke
 - Secretary: Michael Twomey
