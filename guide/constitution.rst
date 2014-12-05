@@ -13,6 +13,10 @@ Python Ireland Constitution
    a. The Society shall aim to promote the use of the Python computer programming language.
    #. The Society shall further aim to organise and to present Python conferences and events at suitable venues in Ireland.
 
+#. Membership
+
+   a. Membership shall be open to all persons subscribing to the objects of the Society who have attended a Society meetup.
+
 #. The Committee
 
    a. The Society shall have an Executive Committee elected annually by the Membership (herein 'the Committee') to direct ongoing activities and foster the aims of the Society.
