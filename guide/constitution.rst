@@ -72,6 +72,17 @@ Python Ireland Constitution
    #. Formal communications to individual Members may be made by e-mail, online messanging services, or post, whichever is appropriate.
    #. Any views or opinions posted by members on the Society's website or within the Society's online communities shall not be binding on the Society or Committee unless formally adopted in accordance with the provisions of the Society's Constitution.
 
+# Rules of bank account transactions
+
+   a. Only Committee Members may be signatories on the account.
+   #. Any single signatory can lodge or withdraw amount up to €50.
+   #. At least two signatories are required to approve lodgements or withdrawals that exceeds €50.
+   #. If a member receives a cheque, email the committee members and record the amount.
+   #. If a member lodges/draws a cheque, email the committee members and record the transaction.
+   #. If a member are receives a transaction via AIB’s iBusiness Banking (iBB) into Python Ireland’s bank account, email the committee members and record the amount.
+   #. If a member withdraws from Python Ireland’s bank account via AIB’s iBusiness Banking (iBB), email the committee members and record the amount.
+
+
 Signatures
 ==========
 
@@ -112,17 +123,3 @@ Address
 Phoenix Park Racecourse,
 Castleknock,
 Dublin 15
-
-Appendix 3
-==========
-
-Rules of bank account transactions
-----------------------------------
-
-- < €50 - Anyone can lodge/withdraw amount up to €50.
-- > €50 - At least two committee members to approve lodgement/withdrawal of amounts that exceeds €50 (i.e. cheque/cash).
-- If a member receives a cheque, email the committee members and record the amount.
-- If a member lodges/draws a cheque, email the committee members and record the transaction.
-- If a member are receives a transaction via AIB’s iBusiness Banking (iBB) into Python Ireland’s bank account, email the committee members and record the amount.
-- If a member withdraws from Python Ireland’s bank account via AIB’s iBusiness Banking (iBB), email the committee members and record the amount.
-
