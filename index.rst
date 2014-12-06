@@ -19,7 +19,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   guide/constitution
    guide/history
    guide/committee
    guide/meetups
@@ -29,6 +28,7 @@ Contents:
    guide/conference/index
    guide/credits
    minutes/2014-11-agm
+   guide/constitution
 
 Indices and tables
 ==================
