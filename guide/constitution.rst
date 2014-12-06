@@ -72,7 +72,7 @@ Constitution
    #. Formal communications to individual Members may be made by e-mail, online messanging services, or post, whichever is appropriate.
    #. Any views or opinions posted by members on the Society's website or within the Society's online communities shall not be binding on the Society or Committee unless formally adopted in accordance with the provisions of the Society's Constitution.
 
-# Rules of bank account transactions
+#. Rules of bank account transactions
 
    a. Only Committee Members may be signatories on the account.
    #. Any single signatory can lodge or withdraw amount up to €50.
