@@ -16,6 +16,7 @@ Python Ireland Constitution
 #. Membership
 
    a. Membership shall be open to all persons subscribing to the objects of the Society who have attended a Society meetup.
+   #. No one shall be admitted to Membership of the Society less than twenty-four hours before a General Meeting.
 
 #. The Committee
 
@@ -43,7 +44,6 @@ Python Ireland Constitution
    #. The Officers of the Society shall be elected by the Committee from its Members.
    #. Honorary Members shall have the same privileges as Members excepting the privilege of voting in meetings or voting in elections.
    #. Candidates for election to the Committee must be nominated and seconded by Members of the Society in writing and the Secretary must receive such nominations at the published address of the Society at least seven days before the AGM. All elections shall be by show of hands.
-   #. No one shall be admitted to Membership of the Society less than twenty-four hours before a General Meeting.
 
 #. Annual General Meeting and Extraordinary General Meetings
 
