@@ -20,10 +20,12 @@ Python Ireland Constitution
 
 #. Executive Committee
 
-   #. The Committee shall be composed of a minimum of five persons. The Committee shall be able to co-opt members. Committee members shall stand down at each Annual General Meeting and may offer themselves for re- election.
-   #. The Committee shall elect Officers from its members including:
    a. The Society shall have an Executive Committee elected annually by the Membership (herein 'the Committee')
    #. The purpose of the Committee is to direct ongoing activities and foster the aims of the Society.
+   #. The Committee shall be composed of a minimum of five persons.
+   #. The Committee shall be able to co-opt Society members.
+   #. Committee Members shall stand down at each Annual General Meeting and may offer themselves for re-election.
+   #. The Committee shall elect Officers from Committee Members including:
 
       i. A Chairperson
       #. A Secretary
