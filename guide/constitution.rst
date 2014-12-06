@@ -18,7 +18,7 @@ Python Ireland Constitution
    a. Membership shall be open to all persons subscribing to the objects of the Society who have attended a Society meetup.
    #. No one shall be admitted to Membership of the Society less than twenty-four hours before a General Meeting.
 
-#. The Committee
+#. Executive Committee
 
    a. The Society shall have an Executive Committee elected annually by the Membership (herein 'the Committee') to direct ongoing activities and foster the aims of the Society.
    #. The Committee shall be composed of a minimum of five persons. The Committee shall be able to co-opt members. Committee members shall stand down at each Annual General Meeting and may offer themselves for re- election.
