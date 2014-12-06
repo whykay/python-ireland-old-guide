@@ -41,7 +41,7 @@ Python Ireland Constitution
 #. Eligibility, Nomination and Election of Officers
 
    a. Eligibility in the case of all Officers is derived from all Members of the Society.
-   #. The Officers of the Society shall be elected by the Committee from its Members.
+   #. Officers shall be elected by the Committee from the Committee Members.
    #. Honorary Members shall have the same privileges as Members excepting the privilege of voting in meetings or voting in elections.
    #. Candidates for election to the Committee must be nominated and seconded by Members of the Society in writing and the Secretary must receive such nominations at the published address of the Society at least seven days before the AGM. All elections shall be by show of hands.
 
