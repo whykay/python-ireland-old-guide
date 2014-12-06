@@ -96,13 +96,6 @@ David Markey
 
 Dated: _________________
 
-Appendix 2
-==========
-
-Constitution of the Python Ireland Society
-------------------------------------------
-The constitution will be applicable from 13th April 2010.
-
 Executive Committee
 -------------------
 The executive committee members are:
