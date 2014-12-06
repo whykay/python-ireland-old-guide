@@ -63,8 +63,14 @@ Python Ireland Constitution
 #. Amendments to this Constitution
 
    a. This Constitution may be amended by a two-thirds majority of those present and eligible to vote at an Annual General Meeting or Extraordinary General Meeting of the Society.
-   #. Amendments to this Constitution shall be proposed by the Committee or by twelve Members or more of the Society in writing in accordance with the provisions set out in paragraph 6.f. above.
+   #. Amendments to this Constitution shall be proposed by the Committee or by twelve Members or more of the Society in writing in accordance with the provisions set out in paragraph 7.f above.
 
+#. Communications
+
+   a. The Society ackknowledges that prefered online communications and electronic communication will change over time.
+   #. The Society's website will include contact details for the committee and will link to site's where Society news, events and updates can be found.
+   #. Formal communications to individual Members may be made by e-mail, online messanging services, or post, whichever is appropriate.
+   #. Any views or opinions posted by members on the Society's website or within the Society's online communities shall not be binding on the Society or Committee unless formally adopted in accordance with the provisions of the Society's Constitution.
 
 Signatures
 ==========
@@ -78,18 +84,6 @@ Vicky Lee
 David Markey
 
 Dated: _________________
-
-
-Appendix 1
-==========
-
-Communications
---------------
-General communications to Members shall be through details posted on the Society's mailing list. Formal communications to individual Members may be made by e-mail or by post, whichever is appropriate.
-
-Society Forum
--------------
-The Society's website shall include a forum for Members to post their views and opinions. Any such views and opinions shall not be binding on the Society or Committee unless formally adopted in accordance with the provisions of the Society's Constitution.
 
 Appendix 2
 ==========
