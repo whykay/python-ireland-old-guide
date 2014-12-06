@@ -21,12 +21,11 @@ Python Ireland Constitution
 #. Executive Committee
 
    a. The Society shall have an Executive Committee elected annually by the Membership (herein 'the Committee')
-   #. Candidates for election to the Committee must be nominated and seconded by Members of the Society in writing and the Secretary must receive such nominations at the published address of the Society at least seven days before the AGM. All elections shall be by show of hands.
    #. The purpose of the Committee is to direct ongoing activities and foster the aims of the Society.
    #. The Committee shall be composed of a minimum of five persons.
    #. The Committee shall be able to co-opt Society members.
    #. Committee Members shall stand down at each Annual General Meeting and may offer themselves for re-election.
-   #. The Committee shall elect Officers from Committee Members including:
+   #. The Committee shall elect Officers from the Committee Members including:
 
       i. A Chairperson
       #. A Secretary
@@ -41,10 +40,11 @@ Python Ireland Constitution
    #. Treasurer: The Treasurer shall have responsibility for all the Society's finances including the collection of subscriptions and the maintenance of accounts.
    #. Other Committee Members shall be delegated any duties by the Chairperson as are seen fit, including acting as deputies to the Officers of the Society.
 
-#. Eligibility, Nomination and Election of Officers
+#. Eligibility, Nomination and Election of Committee Members
 
-   a. Eligibility in the case of all Officers is derived from all Members of the Society.
-   #. Officers shall be elected by the Committee from the Committee Members.
+   a. Eligibility in the case of all Committee Members is derived from all Members of the Society.
+   #. Candidates for election to the Committee must be nominated and seconded by Members of the Society in writing and the Secretary must receive such nominations at the published address of the Society at least seven days before the AGM.
+   #. All elections shall be by show of hands.
 
 #. Annual General Meeting and Extraordinary General Meetings
 
