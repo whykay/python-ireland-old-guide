@@ -35,7 +35,7 @@ Python Ireland Constitution
    a. The Chairperson: The Chairperson shall oversee the general running of the Society and shall be answerable to the Committee.
    #. The Secretary: The Secretary shall take minutes at all meetings of the Society. The Secretary shall be responsible for all the correspondence of the Society and shall keep a record of it.
    #. Treasurer: The Treasurer shall have responsibility for all the Society's finances including the collection of subscriptions and the maintenance of accounts.
-   #. Other Members of the Committee shall be delegated any duties by the Chairperson as are seen fit, including acting as deputies to the Officers of the Society.
+   #. Other Committee Members shall be delegated any duties by the Chairperson as are seen fit, including acting as deputies to the Officers of the Society.
 
 #. Eligibility, Nomination and Election of Officers
 
