@@ -64,7 +64,6 @@ Python Ireland Constitution
 
    a. This Constitution may be amended by a two-thirds majority of those present and eligible to vote at an Annual General Meeting or Extraordinary General Meeting of the Society.
    #. Amendments to this Constitution shall be proposed by the Committee or by twelve Members or more of the Society in writing in accordance with the provisions set out in paragraph 6.f. above.
-   #. This Constitution is binding from April 13th 2010.
 
 
 Signatures
