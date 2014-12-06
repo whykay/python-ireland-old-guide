@@ -45,7 +45,6 @@ Python Ireland Constitution
 
    a. Eligibility in the case of all Officers is derived from all Members of the Society.
    #. Officers shall be elected by the Committee from the Committee Members.
-   #. Honorary Members shall have the same privileges as Members excepting the privilege of voting in meetings or voting in elections.
 
 #. Annual General Meeting and Extraordinary General Meetings
 
