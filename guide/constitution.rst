@@ -1,8 +1,8 @@
 .. _constitution:
 
-###########################
-Python Ireland Constitution
-###########################
+############
+Constitution
+############
 
 #. Name
 
@@ -86,33 +86,44 @@ Python Ireland Constitution
 Signatures
 ==========
 
-Diarmuid Bourke
+Name:      ______________________________      Signature: ______________________________
 
-Michael Twomey
 
-Vicky Lee
 
-David Markey
+Name:      ______________________________      Signature: ______________________________
 
-Dated: _________________
+
+
+Name:      ______________________________      Signature: ______________________________
+
+
+
+Name:      ______________________________      Signature: ______________________________
+
+
+
+Name:      ______________________________      Signature: ______________________________
+
+
+
+Date: ________________
+
 
 Executive Committee
 -------------------
-The executive committee members are:
+Chair Person
+   Diarmuid Bourke
 
-- Chair Person: Diarmuid Bourke
-- Secretary: Michael Twomey
-- Treasurer: Vicky Lee
-- Member: Brian Brazil
-- Member: Eugene Eichelberger
-- Member: Andrea Fagan
-- Member: Jakub Jarosz
-- Member: David Markey
-- Member: Brian Ward
+Secretary
+    Andrea Fagan
 
-Address
--------
-5 Phoenix Park Avenue,
-Phoenix Park Racecourse,
-Castleknock,
-Dublin 15
+Treasurer
+    Vicky Twomey-Lee
+
+Members
+  | Gerry Boland
+  | Jakub Jarosz
+  | David Markey
+  | Brian McDonnell
+  | Barisa Obradovic
+  | Michael Twomey
