@@ -53,7 +53,7 @@ Python Ireland Constitution
    #. The matters to be discussed at the AGM shall be posted on the Society's website not less than three days prior to the meeting.
    #. At the AGM Officers shall read their reports of the Society's activities for the year and the election of a new Committee shall take place.
    #. The Committee shall meet at least four times a year. The quorum for such meetings is three Officers of the Committee. If the Secretary is not present the Officer chairing the meeting shall be responsible for ensuring that minutes are taken and that these are copied to all Officers and co-options of the Committee.
-   #. An Extraordinary General Meeting (EGM) of the Society may be called by the Committee or by a minimum of one third of the Membership (excluding Honorary Members) presenting a signed petition to the Committee. Notices of such meetings shall be posted on the Society's website at least fourteen clear days in advance.
+   #. An Extraordinary General Meeting (EGM) of the Society may be called by the Committee or by a minimum of one third of the Membership presenting a signed petition to the Committee. Notices of such meetings shall be posted on the Society's website at least fourteen clear days in advance.
 
 #. Dismissal of a Member
 
