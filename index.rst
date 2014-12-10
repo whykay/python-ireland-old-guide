@@ -6,7 +6,7 @@
 Welcome to Python Ireland's guide!
 ==================================
 
-This guide is aim to help with the organisation and running of Python Ireland and its events, including PyCon Ireland.
+The aim of this guide is to help with the organisation and running of Python Ireland and its events, including PyCon Ireland.
 
 Hopefully this will provide you with enough information which is based on mainly Vicky's experiences. We hope that you will contribute to this guide to help future committee members.
 

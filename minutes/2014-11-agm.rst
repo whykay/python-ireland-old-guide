@@ -27,7 +27,7 @@ Questions:
 - (Question on cash)
     + Cash flow issue with PyCon for deposits, which is why a large cash reserve is kept
 - What was the turn out for PyCon?
-    + Extra 30 people, about 10% increase, 349 title
+    + Extra 30 people, about 10% increase, 349 total
 
 Regional Officer
 ----------------
