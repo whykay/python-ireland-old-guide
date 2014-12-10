@@ -28,6 +28,7 @@ Contents:
    guide/conference/index
    guide/credits
    minutes/2014-11-agm
+   guide/constitution
 
 Indices and tables
 ==================
