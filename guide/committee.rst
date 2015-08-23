@@ -31,6 +31,8 @@ Members
     Michael Twomey
 
     Gerry Boland
+    
+    Marissa Zhou
 
 Previous Committee Members
 ==========================
