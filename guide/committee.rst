@@ -32,6 +32,8 @@ Members
 
     Gerry Boland
 
+    Marissa Zhou
+
 Previous Committee Members
 ==========================
 
