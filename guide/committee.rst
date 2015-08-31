@@ -34,6 +34,8 @@ Members
     
     Marissa Zhou
 
+    Marissa Zhou
+
 Previous Committee Members
 ==========================
 
