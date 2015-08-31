@@ -4,11 +4,42 @@
 Committee
 =========
 
+Python Ireland Developers Limited was form in April 2015.
+
+Registered company number: 559983
+
 Each year around October, an AGM is held to re-elect the next Python Ireland Committee.
 
+April 2015 - Current
+====================
+Chair
+    Diarmuid Bourke
 
-Current - 2015
-==============
+Secretary
+    Andrea Fagan
+
+Treasurer
+    David Markey
+
+Members
+    
+    Gerry Boland
+
+    Pat Claffey
+
+    Nicolas Laurance
+
+    Brian McDonnell
+    
+    Vicky Twomey-Lee
+
+    Marissa Zhou
+
+Previous Committee Members
+==========================
+
+Jan 2015 - April 2015
+---------------------
 
 Chair
     Diarmuid Bourke
@@ -34,8 +65,6 @@ Members
     
     Marissa Zhou
 
-Previous Committee Members
-==========================
 
 2014
 ----
