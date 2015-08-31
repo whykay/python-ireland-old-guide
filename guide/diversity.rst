@@ -8,8 +8,7 @@ Code of Conduct
 ===============
 The code of conduct is modified version of https://github.com/python/pycon-code-of-conduct and will be used for all Python Ireland events.
 
-Python Ireland is a community meetup intended for networking and collaboration in the developer community.
-----------------------------------------------------------------------------------------------------------
+Python Ireland Developers Limited (Python Ireland) is a community organisation intended for networking and collaboration in the developer community.
 
 We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout Python Ireland events, whether officially sponsored by Python Ireland or not.
 
@@ -48,7 +47,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
-* Vicky Twomey-Lee at +353 86 150 2003
+* Diarmuid Bourke - +353 (0)87 74 25 118
+* Vicky Twomey-Lee - +353 86 150 2003
 
 Python Ireland staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
@@ -155,6 +155,7 @@ Staff Contact
 
 Other Information
 =================
-* [TODO] Add link to PSF's post about CoC.*
+* PSF Code of Conduct - https://www.python.org/psf/codeofconduct/
+* `PSF Moves to require Code of Conduct for Conference grants <http://pyfound.blogspot.ie/2012/12/psf-moves-to-require-code-of-conduct.html>`_
 * `Python Community's Diversity Page <http://python.org/community/diversity/>`_
 * http://www.letsgetlouder.com/ - Pledging here means "As a member of the Python community, we pledge only to attend, speak at, assist, sponsor, or otherwise participate in conferences that publicly promote an anti-harassment and anti-discrimination code of conduct policy."
