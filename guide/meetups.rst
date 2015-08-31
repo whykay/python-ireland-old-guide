@@ -90,9 +90,9 @@ Checklist
 * Organiser(s) contact number / Twitter name / email
 * Sponsors
 * Talkers
-* Projector (if required) [#]_
+* Projector (if required) 
 * Confirmation of location (if reserved)
-* Chequebook, if paying on the night. [#]_
+* If paying on the night, contact directors. [#]_
 * Receipt from venue/service, if expensing.
 * Confirmation with talkers 2 days before
 
@@ -118,6 +118,5 @@ If funding is required, please see :ref:`Funding page <funding>` for more inform
 
 ====
 
-.. [#] Contact Vicky to add you as co-organiser of an event in meetup.com.
-.. [#] Mick and Vicky has a projector, please email them to see if it's available. If a company is happy to sponsor a lend of their projector, that is good also.
-.. [#] Ask Vicky.
+.. [#] Email contact@python.ie to ask meetup.com orgraniser to add you as co-organiser of an event in meetup.com.
+.. [#] Ask current directors. If unsure, email contact@python.ie.
