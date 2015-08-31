@@ -31,6 +31,8 @@ Members
     Michael Twomey
 
     Gerry Boland
+    
+    Marissa Zhou
 
     Marissa Zhou
 
