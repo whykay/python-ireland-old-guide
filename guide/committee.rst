@@ -66,6 +66,9 @@ Members
     Marissa Zhou
 
 
+Previous Committee Members
+==========================
+
 2014
 ----
 

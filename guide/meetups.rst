@@ -5,28 +5,25 @@ Meetups & PR
 ############
 Python Ireland meetups are held on the 2nd Wednesday monthly regardless if there are talks or not. If it's the latter, then a pub meetup is organised instead.
 
-A few things need to be done:-
+A few things need to be done:
 
-* Add to `python.ie <http://python.ie/>`_'s *Events* page (get admin access via Michael Twomey)
 * Post details to
-    * `@PythonIreland <http://twitter.com/pythonireland/>`_ with the hashtag *#PythonIE*
-    * `Python Ireland Facebook Group <https://www.facebook.com/groups/20154483464/>`_
+    * **Twitter** `@PythonIreland <http://twitter.com/pythonireland/>`_ with the hashtag *#PythonIE*
+    * **Facebook** `Python Ireland Facebook Group <https://www.facebook.com/groups/20154483464/>`_
         * We have a `Python Ireland Facebook Page <https://www.facebook.com/pages/Python-Ireland/112652892100109?fref=ts>`_ as well, but not used because of lack of time to update.
-    * `Python Ireland LinkedIn group <http://www.linkedin.com/groups/Python-Ireland-40749?>`_
-    * `Lanyrd <http://lanyrd.com/>`_
+    * **LinkedIn** `Python Ireland LinkedIn group <http://www.linkedin.com/groups/Python-Ireland-40749?>`_
+    * **Lanyrd** `Lanyrd <http://lanyrd.com/>`_
         * Add to *Tech events around Ireland* and *Python events around Ireland* Guides
         * Tag topics with *Python*, *Ireland*, *Dublin*
         * Add location, organisers details and details of the meetup (talk or pub)
-        * Claim the event so you have additional admin privileges.
-    * `Meetup.com <http://www.meetup.com/pythonireland/>`_
+        * Claim the event so you have addiuutional admin privileges.
+    * **Meetup** `Meetup.com <http://www.meetup.com/pythonireland/>`_
         * Create a new event. [#]_
         * Remember to thank Intercom, our meetup.com sponsor.
-    * `Events Den <http://eventsden.com/>`_
-    * `Tech Events <http://www.techevents.ie/>`_
-    * Python Announce mailing list
+    * **Mailing list** Python Announce mailing list
         * python-announce-list@python.org
         * Do make sure you have all the details required for the announcement, see emails from `archives <http://mail.python.org/pipermail/python-announce-list/>`_ as a reference.
-    * Other usergroups:
+    * **Other usergroups**:
         * dublinaltnet@googlegroups.com
         * dublin-game-craft@googlegroups.com
         * dublinjs@googlegroups.com
@@ -51,21 +48,18 @@ Dublin
 
 Talks
 
+* BAML
+* Amazon
+* DogPatch Labs
 * Central Hotel
 * DIT
-* Engine Yard
-* Gresham Hotel
 * Jury's Inn, Parnell Street
-* Salt House
 * Science Gallery (studio upstairs)
-* Scruffy Murphy's (upstairs)
-* Seagrass Restaurabt (downstairs)
-* Trinity College (Arts Block)
 
 Social
 
 * Agains the Grain (upstairs and downstairs)
-* Bull and Castle (Beer Hall)
+* **Bull and Castle (Beer Hall)** (upstaris are big and provides free chickern wings)
 * Karma Stone
 * Longstone
 * Lord Edward's Bar and Lounge
@@ -73,17 +67,13 @@ Social
 * Neary's
 * O'Neill's, Pearse Street
 * Slattery's Bar & Early House
-* The Black Sheep
+* **The Black Sheep** Downstairs are good! 
 * The Grand Central
 * The Schoolhouse Pub
-* The Vaults
 * Trinity Capital Hotel
+* Harbar Masters
+* Lincon's Inn
 
-
-Unconference
-
-* Dublin School of English
-* UCD - Computer Science (labs)
 
 Galway
 ------
@@ -98,10 +88,13 @@ Galway
 Checklist
 =========
 * Organiser(s) contact number / Twitter name / email
+* Sponsors
+* Talkers
 * Projector (if required) [#]_
 * Confirmation of location (if reserved)
 * Chequebook, if paying on the night. [#]_
 * Receipt from venue/service, if expensing.
+* Confirmation with talkers 2 days before
 
 Post-Meetup
 ===========
